@@ -1,6 +1,7 @@
 
 
 import './App.css'
+import NewsCard from './components/NewsCard'
 
 function App() {
 
@@ -8,8 +9,9 @@ function App() {
   return (
     <>
    
+    <NewsCard/>
 
-   
+    
     </>
   )
 }
